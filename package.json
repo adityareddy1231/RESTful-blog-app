@@ -1,0 +1,24 @@
+{
+  "name": "restful-blog-app",
+  "version": "1.0.0",
+  "description": "A simple blog application with CRUD functionality, following RESTful routes,  built with node, express, semantic UI and mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityareddy1231/RESTful-blog-app.git"
+  },
+  "author": "Aditya Reddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adityareddy1231/RESTful-blog-app/issues"
+  },
+  "homepage": "https://github.com/adityareddy1231/RESTful-blog-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.9"
+  }
+}
